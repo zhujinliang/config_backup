@@ -1,0 +1,12 @@
+[user]
+	name = Jinliang Zhu
+    email = zhujinlianghust@gmail.com
+[credential]
+	helper = cache
+[alias]
+	st = status
+	br = branch
+	co = checkout
+    ci = commit
+[color]
+	ui = true
