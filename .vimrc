@@ -51,7 +51,7 @@ set laststatus=2
 set ruler           
 
 " 可以在buffer的任何地方使用鼠标（类似office中在工作区双击鼠标定位）
-set mouse=a
+" set mouse=a
 set selection=exclusive
 set selectmode=mouse,key
 
