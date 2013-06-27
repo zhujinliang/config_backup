@@ -9,3 +9,5 @@ cp ~/.gitconfig ./
 # User vim config file
 cp ~/.vimrc ./
 
+# hosts file
+cp /etc/hosts ./

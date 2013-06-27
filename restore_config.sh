@@ -10,3 +10,5 @@ cp .gitconfig ~/.gitconfig
 # User vim config file
 cp .vimrc ~/.vimrc
 
+# hosts file
+sudo cp hosts /etc/hosts
