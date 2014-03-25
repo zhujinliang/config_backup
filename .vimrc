@@ -32,6 +32,9 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab
 
+" 显示tab以及行末$
+set list
+
 " 显示行号
 set number
 " 历史记录数

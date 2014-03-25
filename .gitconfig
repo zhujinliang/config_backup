@@ -1,6 +1,9 @@
 [user]
 	name = Jinliang Zhu
     email = zhujinlianghust@gmail.com
+[core]
+	editor = vim
+    quotepath = false
 [credential]
 	helper = cache
 [alias]
